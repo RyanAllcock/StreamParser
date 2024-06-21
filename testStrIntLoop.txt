@@ -1,0 +1,4 @@
+a 21
+bee 15
+string 3
+lastAttribute 4
